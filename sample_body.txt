@@ -1,0 +1,111 @@
+<div class="details-info"> 
+<div class="info-container">
+<div class="cover-container"> 
+<img class="cover-image" src="//lh3.googleusercontent.com/1AG61UKNYf986uA8KhFuVDuD0B8MpP8m_G1aFLog-GBtyni28d4d-fSwlbmcFApi7GQ=w300-rw" alt="Cover art" aria-hidden="true" itemprop="image"> 
+</div>
+<div class="info-box-top">  
+<h1 class="document-title" itemprop="name"> 
+<div class="id-app-title" tabindex="0">C1X Mobile Demo App</div> 
+</h1> 
+<div style="clear:both"> </div> 
+<div class="document-subtitles"> 
+<div class="right-info"> 
+<a class="document-subtitle info-star-rating id-no-nav" href="#details-reviews">  
+<div class="tiny-star star-rating-non-editable-container" aria-label=" Rated 3.0 stars out of five stars "> 
+<div class="current-rating" jsname="jIIjq" style="width:60%;"></div> 
+</div>  
+</a> 
+<span class="document-subtitle ratings-info">
+<span class="rating-count" aria-label=" 2 ratings ">2</span> 
+<span class="reviewers-small"></span> 
+</span> 
+</div> 
+<div class="left-info">
+<div itemprop="author" itemscope="" itemtype="http://schema.org/Organization"> 
+<meta content="/store/apps/developer?id=C1X+Mobile" itemprop="url"> 
+<a class="document-subtitle primary" href="/store/apps/developer?id=C1X+Mobile"> 
+<span itemprop="name">C1X Mobile</span> 
+</a>  
+<a class="document-subtitle category" href="/store/apps/category/MEDIA_AND_VIDEO"> 
+<span itemprop="genre">Media &amp; Video</span> 
+</a>  
+</div> 
+</div> 
+</div> 
+
+<h1 aria-label=" Description "> </h1> 
+<div class="show-more-content text-body" itemprop="description"> 
+<div jsname="C4s9Ed">C1X helps mobile
+publishers run ad campaigns to acquire new users and better monetize
+existing users through its SDK and demand side platform tools. Our
+innovative ad formats and audience profiling custom targets ads to the
+most valuable audiences and recommend the best actions to connect with
+them.</div>  
+<div class="show-more-end">
+</div>
+</div> 
+</div> 
+ 
+<div class="rating-box"> <div
+class="score-container" itemprop="aggregateRating" itemscope="itemscope"
+itemtype="http://schema.org/AggregateRating"> 
+<meta content="3"
+itemprop="ratingValue"> 
+
+<meta content="2" itemprop="ratingCount"> <div
+class="score" aria-label=" Rated 3.0 stars out of five stars ">3.0</div>
+
+<div class="score-container-star-rating">  
+<div class="small-star
+star-rating-non-editable-container" aria-label=" Rated 3.0 stars out of
+five stars "> <div class="current-rating" jsname="jIIjq" style="width:
+60%;"></div> </div>  </div> 
+
+<div
+class="details-section whatsnew"> 
+<div class="details-section-contents
+show-more-container" jscontroller="G7YeLc" jsaction="rcuQ6b:rcuQ6b"> <h1
+class="heading"> What's New </h1> <div class="recent-change">- Bug
+fixes</div> <div class="show-more-end" jsaction="click:vhaaFf"></div>
+<div>  <button class="play-button show-more small" jsaction="KoToPc">
+Read more </button>  <button class="play-button expand-close"
+jsaction="vhaaFf"> <div class="close-image"> </div> </button> </div>
+</div> <div class="details-section-divider"></div> </div> </div> <div
+class="details-wrapper apps-secondary-color"> <div
+class="details-section metadata"> <div class="details-section-heading">
+<h1 class="heading"> Additional information </h1> </div> <div
+class="details-section-contents"> <div class="meta-info"> <div
+class="title">Updated</div> 
+
+<div class="content"
+itemprop="datePublished">February 8, 2016</div> </div> <div
+class="meta-info"> <div class="title">Size</div> <div class="content"
+itemprop="fileSize"> 2.5M  </div> </div> <div class="meta-info"> <div
+class="title">Installs</div> <div class="content"
+itemprop="numDownloads">  10 - 50  </div> </div> <div class="meta-info">
+<div class="title">Current Version</div> <div class="content"
+itemprop="softwareVersion"> 1.4  </div> </div> <div class="meta-info">
+<div class="title">Requires Android</div> <div class="content"
+itemprop="operatingSystems">      4.0 and up    </div> </div> <div
+class="meta-info contains-text-link"> <div class="title">Content
+Rating</div> <div class="content"
+itemprop="contentRating">Everyone</div>  <a class="content"
+href="https://support.google.com/googleplay?p=appgame_ratings"
+target="_blank">Learn more</a>  </div> <div class="meta-info"> <div
+class="title"> Interactive Elements </div> <div class="content">Shares
+Info, Shares Location</div> </div>  <div class="meta-info"> <div
+class="title">Permissions</div> <button class="content
+id-view-permissions-details fake-link" data-docid="c1x.sdk.adhive"> View
+details </button> </div> <div class="meta-info contains-text-link"> <div
+class="title">Report</div> <a class="content"
+href="https://support.google.com/googleplay/?p=report_content"
+target="_blank"> Flag as inappropriate </a> </div> <div
+class="meta-info"> <div class="title"> Offered By </div> <div
+class="content">C1X Mobile</div> </div> <div class="meta-info
+meta-info-wide"> <div class="title"> Developer </div> <div
+class="content contains-text-link"> <a class="dev-link"
+href="https://www.google.com/url?q=http://c1exchange.com/&amp;sa=D&amp;
+usg=AFQjCNGckuH0myRGrA4gZ2i_19C03rICKg" rel="nofollow" target="_blank">
+Visit website </a> <a class="dev-link"
+href="mailto:arindam@c1exchange.com" rel="nofollow" target="_blank">
+Email arindam@c1exchange.com </a>   </div> </div>
